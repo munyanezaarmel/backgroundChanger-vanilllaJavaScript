@@ -30,14 +30,17 @@ li{
 }
 li a{
   display:block;
-  padding:8px;
+  padding: 50px;
   width: 60px;
-  text-decoration: none;
+  
   color:#27AE60;
   margin-top: 50px;
+  font-size: 25px;
+  
+  
 
- 
 }
+
 .click{
   font-size: 35px;
   font-size: 14;
